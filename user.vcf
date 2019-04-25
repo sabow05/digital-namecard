@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jin Xin 金歆 ;Vera;;;
-FN: Vera Jin Xin\,Ph.D\n金歆博士
-ORG:Sopra Steria Asia Pte. Ltd.\n思特亚亚洲有限公司金歆博士;
+N:Jin Xin ;Vera;;;
+FN: Vera Jin Xin\,Ph.D
+ORG:Sopra Steria Asia Pte. Ltd.\n思特亚亚洲有限公司;
 TITLE:Chief Executive Officer\n执行总裁
 EMAIL;type=INTERNET;type=WORK;type=pref:vera.jin@soprasteria.com
 TEL;type=WORK;type=VOICE:+65 9180 6919
